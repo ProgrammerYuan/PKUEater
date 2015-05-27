@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ArchAngeltoolkitV2/libs/jsoup-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ArchAngeltoolkitV2/libs/android-async-http-1.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ArchAngeltoolkitV2/libs/httpmime-4.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

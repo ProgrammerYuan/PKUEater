@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidCropperPlus/AndroidCropperPlus.iml" filepath="$PROJECT_DIR$/AndroidCropperPlus/AndroidCropperPlus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidNumberPicker/AndroidNumberPicker.iml" filepath="$PROJECT_DIR$/AndroidNumberPicker/AndroidNumberPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArchAngeltoolkitV2/ArchAngeltoolkitV2.iml" filepath="$PROJECT_DIR$/ArchAngeltoolkitV2/ArchAngeltoolkitV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleProgressButton/CircleProgressButton.iml" filepath="$PROJECT_DIR$/CircleProgressButton/CircleProgressButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConstrainedWidget/ConstrainedWidget.iml" filepath="$PROJECT_DIR$/ConstrainedWidget/ConstrainedWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragSortListView/DragSortListView.iml" filepath="$PROJECT_DIR$/DragSortListView/DragSortListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EdgeEffectOverride/EdgeEffectOverride.iml" filepath="$PROJECT_DIR$/EdgeEffectOverride/EdgeEffectOverride.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HtmlSpanner/HtmlSpanner.iml" filepath="$PROJECT_DIR$/HtmlSpanner/HtmlSpanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HtmlTextview/HtmlTextview.iml" filepath="$PROJECT_DIR$/HtmlTextview/HtmlTextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IconDownloader/IconDownloader.iml" filepath="$PROJECT_DIR$/IconDownloader/IconDownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JazzyViewPager/JazzyViewPager.iml" filepath="$PROJECT_DIR$/JazzyViewPager/JazzyViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" filepath="$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" filepath="$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" filepath="$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" filepath="$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recording/Recording.iml" filepath="$PROJECT_DIR$/Recording/Recording.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoundedImageView/RoundedImageView.iml" filepath="$PROJECT_DIR$/RoundedImageView/RoundedImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecurePreferences/SecurePreferences.iml" filepath="$PROJECT_DIR$/SecurePreferences/SecurePreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shimmer/Shimmer.iml" filepath="$PROJECT_DIR$/Shimmer/Shimmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StickyScrollViewItems/StickyScrollViewItems.iml" filepath="$PROJECT_DIR$/StickyScrollViewItems/StickyScrollViewItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperToasts/SuperToasts.iml" filepath="$PROJECT_DIR$/SuperToasts/SuperToasts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeCards/SwipeCards.iml" filepath="$PROJECT_DIR$/SwipeCards/SwipeCards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchView/SwitchView.iml" filepath="$PROJECT_DIR$/SwitchView/SwitchView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypedPreferences/TypedPreferences.iml" filepath="$PROJECT_DIR$/TypedPreferences/TypedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" filepath="$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZXingImitation/ZXingImitation.iml" filepath="$PROJECT_DIR$/ZXingImitation/ZXingImitation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtils/xUtils.iml" filepath="$PROJECT_DIR$/xUtils/xUtils.iml" />
+    </modules>
+  </component>
+</project>

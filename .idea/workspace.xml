@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/Crop$Extra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/Crop.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$6$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$Cropper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity$Cropper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropImageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropUtil$BackgroundJob$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropUtil$BackgroundJob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/CropUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/HighlightView$HandleMode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/HighlightView$ModifyMode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/HighlightView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/ImageViewTouchBase$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/ImageViewTouchBase$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/ImageViewTouchBase$Recycler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/ImageViewTouchBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/MonitoredActivity$LifeCycleAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/MonitoredActivity$LifeCycleListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/MonitoredActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/RotateBitmap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/util/Log.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AndroidCropperPlus/com/soundcloud/android/crop/util/VisibleForTesting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/imitation/Zxing/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/marvinlabs/widget/aspectratio/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nhaarman/listviewanimations/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/securepreferences/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/soundcloud/android/crop/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/info/metadude/android/typedpreferences/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$anim.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R$styleable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/nightwhistler/htmlspanner/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$raw.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$raw.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$attr.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$attr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$color.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$drawable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidCropperPlus/AndroidCropperPlus.iml" afterPath="$PROJECT_DIR$/AndroidCropperPlus/AndroidCropperPlus.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidNumberPicker/AndroidNumberPicker.iml" afterPath="$PROJECT_DIR$/AndroidNumberPicker/AndroidNumberPicker.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidVideoView/AndroidVideoView.iml" afterPath="$PROJECT_DIR$/AndroidVideoView/AndroidVideoView.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArchAngeltoolkitV2/ArchAngeltoolkitV2.iml" afterPath="$PROJECT_DIR$/ArchAngeltoolkitV2/ArchAngeltoolkitV2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CircleProgressButton/CircleProgressButton.iml" afterPath="$PROJECT_DIR$/CircleProgressButton/CircleProgressButton.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConstrainedWidget/ConstrainedWidget.iml" afterPath="$PROJECT_DIR$/ConstrainedWidget/ConstrainedWidget.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DragSortListView/DragSortListView.iml" afterPath="$PROJECT_DIR$/DragSortListView/DragSortListView.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EdgeEffectOverride/EdgeEffectOverride.iml" afterPath="$PROJECT_DIR$/EdgeEffectOverride/EdgeEffectOverride.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlSpanner/HtmlSpanner.iml" afterPath="$PROJECT_DIR$/HtmlSpanner/HtmlSpanner.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlTextview/HtmlTextview.iml" afterPath="$PROJECT_DIR$/HtmlTextview/HtmlTextview.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IconDownloader/IconDownloader.iml" afterPath="$PROJECT_DIR$/IconDownloader/IconDownloader.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JazzyViewPager/JazzyViewPager.iml" afterPath="$PROJECT_DIR$/JazzyViewPager/JazzyViewPager.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" afterPath="$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" afterPath="$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" afterPath="$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" afterPath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" afterPath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" afterPath="$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Recording/Recording.iml" afterPath="$PROJECT_DIR$/Recording/Recording.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RoundedImageView/RoundedImageView.iml" afterPath="$PROJECT_DIR$/RoundedImageView/RoundedImageView.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SecurePreferences/SecurePreferences.iml" afterPath="$PROJECT_DIR$/SecurePreferences/SecurePreferences.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Shimmer/Shimmer.iml" afterPath="$PROJECT_DIR$/Shimmer/Shimmer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/StickyScrollViewItems/StickyScrollViewItems.iml" afterPath="$PROJECT_DIR$/StickyScrollViewItems/StickyScrollViewItems.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SuperToasts/SuperToasts.iml" afterPath="$PROJECT_DIR$/SuperToasts/SuperToasts.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwipeCards/SwipeCards.iml" afterPath="$PROJECT_DIR$/SwipeCards/SwipeCards.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SwitchView/SwitchView.iml" afterPath="$PROJECT_DIR$/SwitchView/SwitchView.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TypedPreferences/TypedPreferences.iml" afterPath="$PROJECT_DIR$/TypedPreferences/TypedPreferences.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" afterPath="$PROJECT_DIR$/UniversalImageLoader/UniversalImageLoader.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZXingImitation/ZXingImitation.iml" afterPath="$PROJECT_DIR$/ZXingImitation/ZXingImitation.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xUtils/xUtils.iml" afterPath="$PROJECT_DIR$/xUtils/xUtils.iml" />
+    </list>
+    <ignored path="PKUEater.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PKUEater" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="EdgeEffectViewPager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EdgeEffectOverride/src/uk/co/androidalliance/edgeeffectoverride/EdgeEffectViewPager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VideoActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidVideoView/src/com/jit/video/VideoActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.41602466">
+              <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Android Application.AndroidVideoView">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="JazzyViewPager" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="JazzyViewPager" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SwitchView" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="SwitchView" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AndroidVideoView" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="AndroidVideoView" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.JazzyViewPager" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.SwitchView" />
+      <item index="2" class="java.lang.String" itemvalue="Android Application.AndroidVideoView" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="" />
+      <created>1432759624681</created>
+      <option name="number" value="Default" />
+      <updated>1432759624681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32970297" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EdgeEffectOverride/src/uk/co/androidalliance/edgeeffectoverride/EdgeEffectViewPager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidVideoView/src/com/jit/video/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41602466">
+          <caret line="48" column="14" selection-start-line="48" selection-start-column="14" selection-end-line="48" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (ZXingImitation)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>EdgeEffectOverride</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 22 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>public_libs</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
