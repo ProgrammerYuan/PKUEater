@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android = "http://schemas.android.com/apk/res/android"
+	android:layout_width = "match_parent"
+	android:layout_height = "match_parent"
+	android:background = "@android:color/black">
+
+	<SurfaceView
+		android:layout_width = "0px"
+		android:layout_height = "0px"
+		android:visibility = "gone" />
+
+	<video.FullScreenVideoView
+		android:id = "@+id/video_main"
+		android:layout_width = "wrap_content"
+		android:layout_height = "wrap_content"
+		android:layout_centerInParent = "true" />
+
+	<RelativeLayout
+		android:id = "@+id/upper_layout"
+		android:layout_width = "match_parent"
+		android:layout_height = "match_parent">
+
+		<RelativeLayout
+			android:id = "@+id/video_header"
+			android:layout_width = "match_parent"
+			android:layout_height = "50dp"
+			android:background = "@color/trans_75">
+
+			<TextView
+				android:id = "@+id/video_title"
+				android:layout_width = "match_parent"
+				android:layout_height = "wrap_content"
+				android:layout_centerInParent = "true"
+				android:gravity = "center"
+				android:singleLine = "true"
+				android:text = "视频播放"
+				android:textColor = "@color/white"
+				android:textSize = "18sp" />
+		</RelativeLayout>
+	</RelativeLayout>
+
+	<RelativeLayout
+		android:id = "@+id/video_footer"
+		android:layout_width = "match_parent"
+		android:layout_height = "wrap_content"
+		android:layout_alignParentBottom = "true"
+		android:background = "@color/trans_75"
+		android:paddingBottom = "8dp"
+		android:paddingLeft = "16dp"
+		android:paddingRight = "16dp"
+		android:paddingTop = "8dp">
+
+		<ImageView
+			android:id = "@+id/video_play"
+			android:layout_width = "32dp"
+			android:layout_height = "32dp"
+			android:layout_centerVertical = "true"
+			android:background = "@drawable/selector_circle_white"
+			android:padding = "8dp"
+			android:scaleType = "fitXY"
+			android:src = "@drawable/icon_media_play" />
+
+		<TextView
+			android:id = "@+id/video_played"
+			android:layout_width = "wrap_content"
+			android:layout_height = "wrap_content"
+			android:layout_centerVertical = "true"
+			android:layout_marginLeft = "8dp"
+			android:layout_toRightOf = "@+id/video_play"
+
+			android:text = "00:00"
+			android:textColor = "@color/white"
+			android:textSize = "14sp" />
+
+		<TextView
+			android:id = "@+id/video_duration"
+			android:layout_width = "wrap_content"
+			android:layout_height = "wrap_content"
+			android:layout_alignParentRight = "true"
+			android:layout_centerVertical = "true"
+			android:layout_marginRight = "8dp"
+			android:text = "00:00"
+			android:textColor = "@color/white"
+			android:textSize = "14sp" />
+
+		<com.gc.materialdesign.views.Slider
+			android:id = "@+id/video_seekbar"
+			android:layout_width = "match_parent"
+			android:layout_height = "wrap_content"
+			android:layout_centerInParent = "true"
+			android:layout_marginLeft = "8dp"
+			android:layout_toLeftOf = "@+id/video_duration"
+			android:layout_toRightOf = "@+id/video_played"
+			android:max = "100"
+			android:maxHeight = "10dp"
+			android:minHeight = "10dp" />
+		<!--<SeekBar-->
+		<!--android:id="@+id/video_seekbar"-->
+		<!--android:layout_width="match_parent"-->
+		<!--android:layout_height="wrap_content"-->
+		<!--android:layout_centerInParent="true"-->
+		<!--android:layout_marginLeft="10dp"-->
+		<!--android:layout_marginRight="10dp"-->
+		<!--android:layout_toLeftOf="@+id/video_duration"-->
+		<!--android:layout_toRightOf="@+id/video_played"-->
+		<!--android:max="100"-->
+		<!--android:maxHeight="10dip"-->
+		<!--android:minHeight="10dip"-->
+		<!--android:progress="0"-->
+		<!--android:thumbOffset="0dp" />-->
+		<!--  android:progressDrawable="@drawable/seekbar"
+			android:thumb="@drawable/line_point" -->
+	</RelativeLayout>
+
+</RelativeLayout>

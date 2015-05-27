@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchView">
+         <attr name="textTrue" format="string" />
+         <attr name="textFalse" format="string" />
+         <attr name="container_Hight" format="dimension" />
+         <attr name="container_Width" format="dimension" />
+         <attr name="cursor_Hight" format="dimension" />
+         <attr name="cursor_Width" format="dimension" />
+          <attr name="cursor_Background" format="reference|color" />
+         <attr name="container_Background" format="reference|color" />
+    </declare-styleable>
+</resources>

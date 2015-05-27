@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="MaskImage">
+		<!-- Identifier for the image that represents the Imageview's content. -->
+		<attr name="image" format="reference" />
+		<!-- crop Imageview's content same as mask -->
+		<attr name="mask" format="reference" />
+		<!-- Background Image -->
+		<attr name="frame" format="reference" />
+	</declare-styleable>
+	<declare-styleable name = "PagerSlidingTabStrip">
+		<attr name = "pstsIndicatorColor" format = "color" />
+		<attr name = "pstsUnderlineColor" format = "color" />
+		<attr name = "pstsDividerColor" format = "color" />
+		<attr name = "pstsIndicatorHeight" format = "dimension" />
+		<attr name = "pstsUnderlineHeight" format = "dimension" />
+		<attr name = "pstsDividerPadding" format = "dimension" />
+		<attr name = "pstsTabPaddingLeftRight" format = "dimension" />
+		<attr name = "pstsScrollOffset" format = "dimension" />
+		<attr name = "pstsTabBackground" format = "reference" />
+		<attr name = "pstsShouldExpand" format = "boolean" />
+		<attr name = "pstsTextAllCaps" format = "boolean" />
+		<attr name = "pstsTabCount" format = "integer" />
+	</declare-styleable>
+	<declare-styleable name="CustomAttributes">
+		<!--        indicate if the slider must show number indicator -->
+		<attr name="showNumberIndicator" format="boolean" />
+		<!--        in progress view indicate max value of progress -->
+		<attr name="max" format="integer" />
+		<!--        in progress view indicate min value of progress -->
+		<attr name="min" format="integer" />
+		<!--        in progress view indicate value of progress -->
+		<attr name="value" format="integer" />
+		<!--        in progress view indicate value of progress -->
+		<attr name="progress" format="integer" />
+		<!--        in switche's view indicate state of view -->
+		<attr name="check" format="boolean" />
+		<!--        in float button indicate icon resource -->
+		<attr name="iconFloat" format="integer" />
+		<!--        in float button indicate if must start with animation -->
+		<attr name="animate" format="boolean" />
+		<!--        Speed of ripple animation -->
+		<attr name="rippleSpeed" format="float" />
+		<!--        in float button indicate if must start with animation -->
+		<attr name="rippleColor" format="color|reference" />
+	</declare-styleable>
+</resources>

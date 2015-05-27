@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name = "background_tab_pressed">#6633B5E5</color>
+
+	<color name = "trans">#00000000</color>
+	<color name = "trans_75">#bF000000</color>
+	<color name = "trans_50">#7F000000</color>
+	<color name = "trans_25">#3F000000</color>
+	<color name = "trans_12">#1F000000</color>
+	<color name = "trans_white_80">#CCFFFFFF</color>
+	<color name = "trans_white_75">#bFFFFFFF</color>
+	<color name = "trans_white_50">#7FFFFFFF</color>
+	<color name = "trans_white_25">#3FFFFFFF</color>
+	<color name = "trans_white_12">#1FFFFFFF</color>
+	<color name = "white">#FFFBFBFB</color>
+	<color name = "white_darker">#dcdcdc</color>
+	<color name = "pink">#f289a2</color>
+	<color name = "red">#f36a62</color>
+	<color name = "orange">#f1914f</color>
+	<color name = "yellow">#e3b342</color>
+	<color name = "green">#b4b953</color>
+	<color name = "lightblue">#79c5ce</color>
+	<color name = "blue">#5babeb</color>
+	<color name = "lightpurple">#8cbddc</color>
+	<color name = "purple">#9e8ccb</color>
+	<color name = "dust">#c4ab6f</color>
+	<color name = "khaki_dark">#af7b32</color>
+	<color name = "khaki">#d8b86d</color>
+	<color name = "grey">#9e9e9e</color>
+	<!--<color name = "black">#4c4b4b</color>-->
+	<color name = "black">#6b6b6b</color>
+	<color name = "indigo">#e7f4f6</color>
+	<color name = "divider_normal">#dfdfdd</color>
+	<color name = "divider_bf">#bfbfbf</color>
+	<color name = "hint">#b3b3b3</color>
+	<color name = "black_33">#333333</color>
+	<color name = "black_40">#404040</color>
+	<color name = "black_75">#757575</color>
+	<color name = "black_00">#000000</color>
+</resources>

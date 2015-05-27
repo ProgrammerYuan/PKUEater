@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sv_container"
+    android:layout_width="230dip"
+    android:layout_height="38dip"
+    android:background="@drawable/switch_bg" >
+   <!-- android:layout_width="230dip"
+    android:layout_height="38dip"
+
+    android:layout_width="120dip"
+    android:layout_height="36dip"-->
+    <ImageButton
+        android:layout_width="120dip"
+        android:layout_height="36dip"
+        android:id="@+id/iv_switch_cursor"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="0.5dip"
+        android:layout_marginRight="0.5dip"
+        android:background="@drawable/switch_button_bg" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+            <TextView
+                android:id="@+id/switch_text_true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+        <TextView
+            android:id="@+id/switch_text_false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+buildscript {
+}
+
+dependencies {
+    compile project(':AndroidNumberPicker')
+    compile project(':HtmlSpanner')
+    compile project(':HtmlTextview')
+    compile project(':PullToRefresh')
+    compile project(':RoundedImageView')
+    compile project(':SecurePreferences')
+    compile project(':StickyScrollViewItems')
+    compile project(':SuperToasts')
+    compile project(':TypedPreferences')
+    compile project(':UniversalImageLoader')
+    compile project(':xUtils')
+
+}
