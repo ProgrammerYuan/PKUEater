@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" filepath="$PROJECT_DIR$/JumpingBeans/JumpingBeans.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" filepath="$PROJECT_DIR$/ListViewAnimation/ListViewAnimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" filepath="$PROJECT_DIR$/NumberProgressBar/NumberProgressBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PKUEater/PKUEater.iml" filepath="$PROJECT_DIR$/PKUEater/PKUEater.iml" />
       <module fileurl="file://$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" filepath="$PROJECT_DIR$/PagerSlidingTabStrip/PagerSlidingTabStrip.iml" />
       <module fileurl="file://$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" filepath="$PROJECT_DIR$/PullToRefresh/PullToRefresh.iml" />
       <module fileurl="file://$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" filepath="$PROJECT_DIR$/PullToZoomView/PullToZoomView.iml" />

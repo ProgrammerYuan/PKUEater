@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android"
+	   android:duration="350"
+	   android:fromAlpha="0.8"
+	   android:toAlpha="1.0"
+	   android:interpolator="@anim/interpolator_acc"/><!-- From: file:/Users/lucas/dev/workspace/umeng/feedback/umeng-feedback-android/sdk/src/act_home/res/anim/act_slide_out_from_right.xml -->

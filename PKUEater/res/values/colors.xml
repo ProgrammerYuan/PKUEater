@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name = "white">#ffffff</color>
+	<color name = "grey">#939393</color>
+	<color name = "grey_line">#dfdfdd</color>
+	<color name = "grey_divider">#dbd6d6</color>
+	<color name = "grey_dark">#6b6b6b</color>
+	<color name = "grey_completed">#b3b3b3</color>
+	<color name = "white_dark">#efefef</color>
+	<color name = "white_darker">#dcdcdc</color>
+	<color name = "grey_border">#b3b3b3</color>
+	<color name = "grey_light">#fff7f7f7</color>
+	<color name = "grey_lighter">#f1f1f1</color>
+</resources>
