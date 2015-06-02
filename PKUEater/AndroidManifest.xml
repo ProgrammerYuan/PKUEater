@@ -3,11 +3,13 @@
 		  package="com.ProgrammerYuan.PKUEater"
 		  android:versionCode="1"
 		  android:versionName="1.0">
-	<uses-sdk android:minSdkVersion="21"/>
+	<uses-sdk android:minSdkVersion="14"
+			android:targetSdkVersion="16"/>
 	<application
 			android:name=".PKUApplication"
 			android:label="@string/app_name"
-			android:icon="@drawable/ic_launcher">
+			android:icon="@drawable/ic_launcher"
+			android:theme="@android:style/Theme.Holo">
 		<activity android:name=".activities.HomeActivity"
 				  android:label="@string/app_name">
 			<intent-filter>
@@ -15,6 +17,12 @@
 				<category android:name="android.intent.category.LAUNCHER"/>
 			</intent-filter>
 		</activity>
-		<activity android:name=".activities.RecommendationActivity"/>
+		<activity android:name=".activities.CanteenRecommendationActivity">
+		</activity>
+		<activity android:name=".activities.DishRecommendationActivity"/>
+		<activity android:name=".activities.CanteenDetailActivity"/>
+		<activity android:name=".activities.CommentCanteenActivity"/>
+		<activity android:name=".activities.DIYDishActivity"/>
+		<activity android:name=".activities.DishDetailActivity"/>
 	</application>
 </manifest>

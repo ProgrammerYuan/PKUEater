@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:orientation="vertical"
+			  android:layout_width="match_parent"
+			  android:layout_height="match_parent">
+	<TextView
+			android:id="@+id/frag_home_eat_btn"
+			android:layout_width="250dp"
+			android:layout_height="250dp"
+			android:text="去哪吃"
+			android:gravity="center"
+			android:textSize="20sp"
+			android:textColor="@color/white"
+			android:layout_centerInParent="true"
+			android:background="@drawable/selector_circle_red"/>
+	<TextView
+			android:id="@+id/frag_home_eat_btn2"
+			android:layout_width="250dp"
+			android:layout_height="250dp"
+			android:text="吃什么"
+			android:gravity="center"
+			android:textSize="20sp"
+			android:textColor="@color/white"
+			android:layout_centerInParent="true"
+			android:background="@drawable/selector_circle_red"
+			android:visibility="invisible"/>
+</RelativeLayout>

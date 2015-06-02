@@ -10,7 +10,6 @@
 			android:layout_width="150dp"
 			android:layout_height="150dp"
 			android:text="你猜呢"
-			android:elevation="5dp"
 			android:gravity="center"
 			android:textSize="20sp"
 			android:textColor="@color/white"

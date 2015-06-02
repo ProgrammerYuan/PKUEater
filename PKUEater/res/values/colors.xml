@@ -8,7 +8,9 @@
 	<color name = "grey_completed">#b3b3b3</color>
 	<color name = "white_dark">#efefef</color>
 	<color name = "white_darker">#dcdcdc</color>
+	<color name = "main_2">#33cc99</color>
 	<color name = "grey_border">#b3b3b3</color>
 	<color name = "grey_light">#fff7f7f7</color>
 	<color name = "grey_lighter">#f1f1f1</color>
+	<color name = "circle_green">#70cda4</color>
 </resources>

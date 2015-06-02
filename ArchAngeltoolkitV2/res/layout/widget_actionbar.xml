@@ -57,13 +57,13 @@
 		android:textSize = "18sp"
 		android:visibility = "visible" />
 
-	<com.gc.materialdesign.views.RelativeLayout
+	<RelativeLayout
 		android:id = "@+id/widget_actionbar_right_image"
 		android:layout_width = "wrap_content"
 		android:layout_height = "match_parent"
 		android:layout_alignParentRight = "true"
 		android:layout_toLeftOf = "@+id/widget_actionbar_title"
-		android:background = "@color/trans"
+		android:background = "@drawable/selector_round_rect_solid_white"
 		android:gravity = "center"
 		android:minHeight = "24dp"
 		android:minWidth = "24dp"
@@ -78,7 +78,7 @@
 			android:layout_centerInParent = "true"
 			android:padding = "4dp"
 			android:scaleType = "centerInside" />
-	</com.gc.materialdesign.views.RelativeLayout>
+	</RelativeLayout>
 
 	<LinearLayout
 		android:id = "@+id/widget_actionbar_buttons"
