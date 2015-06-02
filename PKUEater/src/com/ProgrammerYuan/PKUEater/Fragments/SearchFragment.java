@@ -12,6 +12,7 @@ import com.ProgrammerYuan.PKUEater.activities.CanteenRecommendationActivity;
 import com.ProgrammerYuan.PKUEater.activities.DishRecommendationActivity;
 import com.ProgrammerYuan.PKUEater.activities.HomeActivity;
 import com.ProgrammerYuan.PKUEater.adapters.CanteenAdapter;
+import com.ProgrammerYuan.PKUEater.adapters.SlideUpInAnimationAdapter;
 import com.ProgrammerYuan.PKUEater.model.Canteen;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
 
@@ -28,6 +29,7 @@ public class SearchFragment extends B2Fragment {
 	TextView tv_search;
 	ArrayList<Canteen> canteens;
 	CanteenAdapter adapter;
+	SlideUpInAnimationAdapter slider;
 	ListView list;
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
@@ -51,7 +53,9 @@ public class SearchFragment extends B2Fragment {
 			canteens = new ArrayList<>();
 			list = (ListView)cache.findViewById(R.id.frag_search_result_list);
 			adapter = new CanteenAdapter(owner,canteens);
-			list.setAdapter(adapter);
+			slider = new SlideUpInAnimationAdapter(adapter,80);
+			slider.setAbsListView(list);
+			list.setAdapter(slider);
 
 		}
 		return cache;

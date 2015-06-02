@@ -13,7 +13,13 @@ public class Dish implements Serializable {
 	private String name,intro,image_url;
 	private boolean isSystem;
 	private double price;
+	private float rating;
 	public int pic_index,pic_resource;
+
+	public Dish(String name,String intro,int pic_index,float rating){
+		this(name,intro,pic_index);
+		this.rating = rating;
+	}
 
 	public Dish(String name,String intro,int pic_index){
 		this.name = name;
@@ -40,5 +46,7 @@ public class Dish implements Serializable {
 		return intro;
 	}
 
-
+	public float getRating() {
+		return rating;
+	}
 }

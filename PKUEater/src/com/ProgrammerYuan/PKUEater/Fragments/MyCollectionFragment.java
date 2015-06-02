@@ -7,15 +7,14 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.*;
+import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
 import com.ProgrammerYuan.PKUEater.R;
-import com.ProgrammerYuan.PKUEater.activities.CanteenRecommendationActivity;
-import com.ProgrammerYuan.PKUEater.activities.DIYDishActivity;
-import com.ProgrammerYuan.PKUEater.activities.DishRecommendationActivity;
-import com.ProgrammerYuan.PKUEater.activities.HomeActivity;
+import com.ProgrammerYuan.PKUEater.activities.*;
 import com.ProgrammerYuan.PKUEater.adapters.DishAdapter;
 import com.ProgrammerYuan.PKUEater.model.Dish;
+import studio.archangel.toolkitv2.util.Logger;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
 
 import java.util.ArrayList;
@@ -42,11 +41,20 @@ public class MyCollectionFragment extends B2Fragment{
 		if(!onCreateView(inflater,container,savedInstanceState, R.layout.frag_collection)){
 			list = (ListView)cache.findViewById(R.id.frag_collection_list);
 			dishes = new ArrayList<>();
-			dishes.add(new Dish("麻辣香锅","超辣超好吃",0));
-			dishes.add(new Dish("糖醋里脊","酸甜可口，鲜嫩多汁",1));
-			dishes.add(new Dish("木须肉","色泽鲜艳有营养",2));
+			dishes.add(new Dish("麻辣香锅","超辣超好吃",0,5));
+			dishes.add(new Dish("糖醋里脊","酸甜可口，鲜嫩多汁",1,3));
+			dishes.add(new Dish("木须肉","色泽鲜艳有营养",2,4));
 			adapter = new DishAdapter(owner,dishes);
 			list.setAdapter(adapter);
+			list.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+				@Override
+				public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
+					Logger.out("id:" + i);
+					Intent intent = new Intent(owner, DishDetailActivity.class);
+					intent.putExtra("dish",dishes.get(i));
+					startActivity(intent);
+				}
+			});
 		}
 		return cache;
 	}

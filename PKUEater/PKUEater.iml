@@ -17,5 +17,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="ArchAngeltoolkitV2" exported="" />
     <orderEntry type="module" module-name="RoundedImageView" exported="" />
+    <orderEntry type="module" module-name="ListViewAnimation" exported="" />
   </component>
 </module>

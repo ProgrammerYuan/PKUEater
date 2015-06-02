@@ -21,89 +21,14 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.ProgrammerYuan.PKUEater" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="Phase1 Complete&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/PKUEater.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/icon_back_new_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/icon_like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/icon_not_like.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-hdpi/icon_star_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-mdpi/icon_star_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/icon_star_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxhdpi/icon_star_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/icon_star_empty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-hdpi/icon_star_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-mdpi/icon_star_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/icon_star_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxhdpi/icon_star_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/icon_star_full.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-hdpi/icon_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-mdpi/icon_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/icon_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxhdpi/icon_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/icon_switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/liji.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/muxurou.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/nongyuan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_menu2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_menu2_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_msg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_msg2_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_square2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_square2_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-hdpi/tab_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-mdpi/tab_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxhdpi/tab_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/tab_star.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-hdpi/tab_star_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-mdpi/tab_star_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_star_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxhdpi/tab_star_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/tab_star_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_user2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi/tab_user2_selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable-xxxhdpi/xiangguo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CanteenAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DIYDishActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/HomeFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_recommendation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_diy_dish.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/actionbar_eater.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/frag_collection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/frag_home.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/frag_search.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/item_canteen.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_circle_green.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_main_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_main_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ArchAngeltoolkitV2/res/drawable/selector_round_rect_solid_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_menu2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_msg2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_square2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_star.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_user2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_text_main_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/shape_round_rect_white.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/tab_home_v3.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/RecommendationActivity.java" afterPath="" />
+    <list default="true" id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Comment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CommentAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentDishActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/SlideUpInAnimationAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail_header.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/layout/item_comment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/AndroidNumberPicker/net/simonvt/numberpicker/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/AndroidNumberPicker/net/simonvt/numberpicker/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/BuildConfig.class" />
@@ -126,87 +51,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SuperToasts/com/romainpiel/shimmer/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/SuperToasts/com/romainpiel/shimmer/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/UniversalImageLoader/com/nostra13/universalimageloader/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/UniversalImageLoader/com/nostra13/universalimageloader/BuildConfig.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/xUtils/com/lidroid/xutils/BuildConfig.class" afterPath="$PROJECT_DIR$/out/production/xUtils/com/lidroid/xutils/BuildConfig.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$id.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$layout.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$string.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$style.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/emilsjolander/components/StickyScrollViewItems/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/github/johnpersano/supertoasts/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/handmark/pulltorefresh/library/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/lidroid/xutils/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/nostra13/universalimageloader/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/com/romainpiel/shimmer/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/net/simonvt/numberpicker/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/org/sufficientlysecure/htmltextview/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/studio/archangel/toolkitv2/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R.class" afterPath="$PROJECT_DIR$/out/production/ArchAngeltoolkitV2/uk/co/androidalliance/edgeeffectoverride/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/AndroidManifest.xml" afterPath="$PROJECT_DIR$/PKUEater/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/PKUEater.iml" afterPath="$PROJECT_DIR$/PKUEater/PKUEater.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_home.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_recommendation.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_recommendation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/values/colors.xml" afterPath="$PROJECT_DIR$/PKUEater/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/project.properties" afterPath="$PROJECT_DIR$/PKUEater/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/public_libs.xml" afterPath="$PROJECT_DIR$/.idea/libraries/public_libs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ArchAngeltoolkitV2/res/layout/widget_actionbar.xml" afterPath="$PROJECT_DIR$/ArchAngeltoolkitV2/res/layout/widget_actionbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_menu2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_menu2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_msg2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_msg2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_square2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_square2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_star.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_star.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_user2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_user2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/tab_home_v3.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/tab_home_v3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="PKUEater.iws" />
@@ -229,15 +93,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="act_comment_canteen.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
+      <file leaf-file-name="DishRecommendationActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-              <folding />
+              <caret line="75" column="49" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="49" />
+              <folding>
+                <element signature="e#1976#2120#0" expanded="true" />
+                <element signature="e#2119#2120#0" expanded="true" />
+                <element signature="e#3424#3618#0" expanded="true" />
+                <element signature="e#3617#3618#0" expanded="true" />
+                <element signature="e#3878#4072#0" expanded="true" />
+                <element signature="e#4071#4072#0" expanded="true" />
+                <element signature="e#4105#4356#0" expanded="true" />
+                <element signature="e#4355#4356#0" expanded="true" />
+                <element signature="e#4389#4644#0" expanded="true" />
+                <element signature="e#4643#4644#0" expanded="true" />
+                <element signature="e#4677#4932#0" expanded="true" />
+                <element signature="e#4931#4932#0" expanded="true" />
+                <element signature="e#5882#6107#0" expanded="true" />
+                <element signature="e#6106#6107#0" expanded="true" />
+                <element signature="e#6159#6243#0" expanded="true" />
+                <element signature="e#6242#6243#0" expanded="true" />
+                <element signature="e#6513#6737#0" expanded="true" />
+                <element signature="e#6736#6737#0" expanded="true" />
+                <element signature="e#6789#6873#0" expanded="true" />
+                <element signature="e#6872#6873#0" expanded="true" />
+                <element signature="e#7144#7368#0" expanded="true" />
+                <element signature="e#7367#7368#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -246,8 +130,22 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
+              <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCollectionFragment.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1588#1902#0" expanded="true" />
+                <element signature="e#1901#1902#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -256,7 +154,7 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+              <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -264,38 +162,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CanteenAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CanteenAdapter.java">
+      <file leaf-file-name="SlideUpInAnimationAdapter.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/SlideUpInAnimationAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-              <folding>
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#935#1338#0" expanded="true" />
-                <element signature="e#1124#1327#0" expanded="true" />
-                <element signature="e#1326#1327#0" expanded="true" />
-                <element signature="e#1337#1338#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DishAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.28151986">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/AndroidManifest.xml">
+      <file leaf-file-name="HomeActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <caret line="65" column="92" selection-start-line="65" selection-start-column="92" selection-end-line="65" selection-end-column="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DIYDishActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DIYDishActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -305,54 +198,11 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layer_ratingbar.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0690184">
-              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/HomeFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="124" column="48" selection-start-line="124" selection-start-column="48" selection-end-line="124" selection-end-column="48" />
+              <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
               <folding>
-                <element signature="e#3699#3700#0" expanded="true" />
-                <element signature="e#3750#3751#0" expanded="true" />
-                <element signature="e#3824#3825#0" expanded="true" />
-                <element signature="e#3874#3875#0" expanded="true" />
-                <element signature="e#4101#4102#0" expanded="true" />
-                <element signature="e#4152#4153#0" expanded="true" />
-                <element signature="e#4416#4417#0" expanded="true" />
-                <element signature="e#4467#4468#0" expanded="true" />
-                <element signature="e#4541#4542#0" expanded="true" />
-                <element signature="e#4591#4592#0" expanded="true" />
-                <element signature="e#4793#4899#0" expanded="true" />
-                <element signature="e#4898#4899#0" expanded="true" />
+                <element signature="e#1512#1711#0" expanded="true" />
+                <element signature="e#1710#1711#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="item_canteen.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/item_canteen.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="12" selection-start-line="37" selection-start-column="12" selection-end-line="47" selection-end-column="48" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -367,9 +217,9 @@
         <option value="valueResourceFile" />
         <option value="layoutResourceFile" />
         <option value="resourceFile" />
-        <option value="Class" />
-        <option value="layoutResourceFile_vertical" />
         <option value="Activity" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -389,14 +239,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/HomeActivity.java" />
-        <option value="$PROJECT_DIR$/PKUEater/res/layout/main.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/res/drawable/selector_circle_blue.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/res/anim/act_alpha_in.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/res/anim/act_alpha_out.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java" />
-        <option value="$PROJECT_DIR$/PKUEater/res/values/styles_bangyoungactionbar.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/actionbar_eater.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_recommendation.xml" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/RecommendationActivity.java" />
@@ -413,33 +255,41 @@
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java" />
         <option value="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_star.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/frag_collection.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_home.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/frag_search.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/item_canteen.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_recommendation.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
         <option value="$PROJECT_DIR$/ArchAngeltoolkitV2/res/layout/widget_actionbar.xml" />
         <option value="$PROJECT_DIR$/ArchAngeltoolkitV2/src/studio/archangel/toolkitv2/widgets/AngelActionBar.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DIYDishActivity.java" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_diy_dish.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
-        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CanteenAdapter.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/HomeFragment.java" />
         <option value="$PROJECT_DIR$/PKUEater/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Comment.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CommentAdapter.java" />
+        <option value="$PROJECT_DIR$/PKUEater/res/layout/item_comment.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentDishActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail_header.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/SlideUpInAnimationAdapter.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java" />
       </list>
     </option>
   </component>
@@ -534,7 +384,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Fragments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -592,6 +486,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -622,11 +534,12 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ProgrammerYuan.PKUEater.adapters" />
+      <recent name="com.ProgrammerYuan.PKUEater.activities" />
       <recent name="com.ProgrammerYuan.PKUEater.Fragments" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ArchAngeltoolkitV2/res/drawable" />
       <recent name="$PROJECT_DIR$/PKUEater/res/layout" />
+      <recent name="$PROJECT_DIR$/ArchAngeltoolkitV2/res/drawable" />
       <recent name="$PROJECT_DIR$/PKUEater/res/drawable" />
       <recent name="$PROJECT_DIR$/PKUEater/res/values" />
       <recent name="$PROJECT_DIR$/PKUEater/res/drawable-xhdpi" />
@@ -842,7 +755,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432797679084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Phase1 Complete&#10;">
+      <created>1433254577970</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1433254577971</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -853,28 +772,28 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12277228" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12252964" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970297" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32806325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40019763" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40019763" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33386582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905138" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32932693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905138" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970297" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -931,114 +850,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_recommendation.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6896553">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xUtils/src/com/lidroid/xutils/view/annotation/event/OnNothingSelected.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RoundedImageView/src/com/makeramen/RoundedImageView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RoundedImageView/res/values/attrs.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/shape_round_rect_white.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ArchAngeltoolkitV2/res/values/color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/selector_circle_green.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52020204">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/tab_home_v3.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.689655">
-          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_main_2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.454546">
@@ -1104,56 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#740#741#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#787#788#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="65" column="92" selection-start-line="65" selection-start-column="92" selection-end-line="65" selection-end-column="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2084#2340#0" expanded="true" />
-            <element signature="e#2339#2340#0" expanded="true" />
-            <element signature="e#2375#3163#0" expanded="true" />
-            <element signature="e#3162#3163#0" expanded="true" />
-            <element signature="e#3273#3482#0" expanded="true" />
-            <element signature="e#3481#3482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_home.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1161,28 +922,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.1034484">
           <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.586207">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.4827585">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -1205,48 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.275862">
           <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-40.068966">
-          <caret line="99" column="45" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.172414">
-          <caret line="47" column="46" selection-start-line="47" selection-start-column="46" selection-end-line="47" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2286#2467#0" expanded="true" />
-            <element signature="e#2466#2467#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="49" selection-start-line="63" selection-start-column="49" selection-end-line="63" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1278,17 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DIYDishActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
-          <folding>
-            <element signature="e#1027#1155#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_diy_dish.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1297,51 +983,6 @@
         <state vertical-scroll-proportion="-8.793103">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="63" column="48" selection-start-line="63" selection-start-column="48" selection-end-line="63" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1361,12 +1002,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
           <folding>
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#935#1338#0" expanded="true" />
-            <element signature="e#1124#1327#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1375,7 +1011,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#716#717#0" expanded="false" />
+            <element signature="e#835#1186#0" expanded="false" />
+            <element signature="e#1185#1186#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1408,18 +1049,324 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java">
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml">
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0690184">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.862068">
+          <caret line="47" column="46" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.586207">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+          <folding>
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/item_comment.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.785714">
+          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/CommentAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.0">
+          <caret line="33" column="97" selection-start-line="33" selection-start-column="97" selection-end-line="33" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#837#1334#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2413793">
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentDishActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="53" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-33.103447">
+          <caret line="64" column="44" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6551723">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_dish_detail_header.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/drawable/selector_round_rect_solid_white.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ArchAngeltoolkitV2/src/studio/archangel/toolkitv2/util/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/PKUApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DIYDishActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="47" column="30" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="75" column="49" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="49" />
+          <folding>
+            <element signature="e#1976#2120#0" expanded="true" />
+            <element signature="e#2119#2120#0" expanded="true" />
+            <element signature="e#3424#3618#0" expanded="true" />
+            <element signature="e#3617#3618#0" expanded="true" />
+            <element signature="e#3878#4072#0" expanded="true" />
+            <element signature="e#4071#4072#0" expanded="true" />
+            <element signature="e#4105#4356#0" expanded="true" />
+            <element signature="e#4355#4356#0" expanded="true" />
+            <element signature="e#4389#4644#0" expanded="true" />
+            <element signature="e#4643#4644#0" expanded="true" />
+            <element signature="e#4677#4932#0" expanded="true" />
+            <element signature="e#4931#4932#0" expanded="true" />
+            <element signature="e#5882#6107#0" expanded="true" />
+            <element signature="e#6106#6107#0" expanded="true" />
+            <element signature="e#6159#6243#0" expanded="true" />
+            <element signature="e#6242#6243#0" expanded="true" />
+            <element signature="e#6513#6737#0" expanded="true" />
+            <element signature="e#6736#6737#0" expanded="true" />
+            <element signature="e#6789#6873#0" expanded="true" />
+            <element signature="e#6872#6873#0" expanded="true" />
+            <element signature="e#7144#7368#0" expanded="true" />
+            <element signature="e#7367#7368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="51" selection-start-line="45" selection-start-column="51" selection-end-line="45" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1588#1902#0" expanded="true" />
+            <element signature="e#1901#1902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="68" column="66" selection-start-line="68" selection-start-column="66" selection-end-line="68" selection-end-column="66" />
+          <folding>
+            <element signature="e#1512#1711#0" expanded="true" />
+            <element signature="e#1710#1711#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/HomeActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="92" selection-start-line="65" selection-start-column="92" selection-end-line="65" selection-end-column="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewAnimation/src/com/nhaarman/listviewanimations/BaseAdapterDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.8601036">
+          <caret line="74" column="16" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/SearchFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="32" selection-start-line="55" selection-start-column="32" selection-end-line="55" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewAnimation/src/com/nhaarman/listviewanimations/appearance/SingleAnimationAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ListViewAnimation/src/com/nhaarman/listviewanimations/appearance/AnimationAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.2355072">
+          <caret line="175" column="49" selection-start-line="175" selection-start-column="49" selection-end-line="175" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/SlideUpInAnimationAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28151986">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>

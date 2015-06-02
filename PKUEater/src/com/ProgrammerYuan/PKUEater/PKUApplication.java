@@ -1,6 +1,7 @@
 package com.ProgrammerYuan.PKUEater;
 
 import studio.archangel.toolkitv2.AngelApplication;
+import studio.archangel.toolkitv2.util.Logger;
 import studio.archangel.toolkitv2.util.Util;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
 
@@ -12,6 +13,7 @@ public class PKUApplication extends AngelApplication {
 	@Override
 	public void onCreate(){
 		Util.c = this;
+		Logger.setEnable(true);
 		AngelActionBar.default_color = R.color.main_2;
 		AngelActionBar.default_arrow_drawable = R.drawable.icon_back_new_arrow;
 		prefix = "PKUApplication";

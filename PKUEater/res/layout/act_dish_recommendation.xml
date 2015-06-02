@@ -8,10 +8,11 @@
 		android:gravity="center_horizontal"
 		android:background="@color/grey_light">
 	<RelativeLayout
+			android:id="@+id/act_dish_recommendation_card1"
 			android:layout_width="120dp"
 			android:layout_height="140dp"
 			android:layout_marginTop="32dp"
-			android:background="@drawable/shape_round_rect_white">
+			android:background="@drawable/selector_round_rect_solid_white">
 		<ImageView
 				android:id="@+id/act_dish_recommendation_card1_like"
 				android:layout_width="20dp"
@@ -52,10 +53,11 @@
 			android:layout_marginTop="32dp"
 			android:orientation="horizontal">
 		<RelativeLayout
+				android:id="@+id/act_dish_recommendation_card2"
 				android:layout_width="120dp"
 				android:layout_height="140dp"
 				android:layout_marginRight="24dp"
-				android:background="@drawable/shape_round_rect_white">
+				android:background="@drawable/selector_round_rect_solid_white">
 			<ImageView
 					android:id="@+id/act_dish_recommendation_card2_like"
 					android:layout_width="20dp"
@@ -91,9 +93,10 @@
 			</LinearLayout>
 		</RelativeLayout>
 		<RelativeLayout
+				android:id="@+id/act_dish_recommendation_card3"
 				android:layout_width="120dp"
 				android:layout_height="140dp"
-				android:background="@drawable/shape_round_rect_white">
+				android:background="@drawable/selector_round_rect_solid_white">
 			<ImageView
 					android:id="@+id/act_dish_recommendation_card3_like"
 					android:layout_width="20dp"

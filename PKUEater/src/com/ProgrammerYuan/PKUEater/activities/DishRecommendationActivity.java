@@ -1,14 +1,23 @@
 package com.ProgrammerYuan.PKUEater.activities;
 
+import android.animation.Animator;
+import android.animation.AnimatorListenerAdapter;
+import android.animation.ObjectAnimator;
 import android.app.ActionBar;
-import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import com.ProgrammerYuan.PKUEater.R;
+import com.ProgrammerYuan.PKUEater.model.Dish;
 import studio.archangel.toolkitv2.AngelActivity;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
+
+import java.util.ArrayList;
 
 /**
  * Created by mac on 15/5/31.
@@ -17,8 +26,12 @@ public class DishRecommendationActivity extends AngelActivity {
 
 	AngelActionBar aab;
 	TextView refreshBtn;
-	ImageView iv_like1,iv_like2,iv_like3;
+	RelativeLayout rl_dish1, rl_dish2, rl_dish3;
+	ImageView iv_like1,iv_like2,iv_like3,iv_avatar1,iv_avatar2,iv_avatar3;
+	TextView tv_name1,tv_name2,tv_name3;
 	boolean like1 = false,like2 = false,like3 = false;
+	private ArrayList<Dish> dishes;
+	int offset = 0;
 	public void setupActionBar(String title) {
 		ActionBar bar = getActionBar();
 		if (bar == null) {
@@ -48,9 +61,28 @@ public class DishRecommendationActivity extends AngelActivity {
 		refreshBtn.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
-
+				offset +=3;
+				offset %= dishes.size();
+				flip(0);
 			}
 		});
+
+		dishes = new ArrayList<>();
+		dishes.add(new Dish("麻辣香锅", "超辣超好吃", 0,5));
+		dishes.add(new Dish("糖醋里脊", "酸甜可口，鲜嫩多汁", 1,3));
+		dishes.add(new Dish("木须肉", "色泽鲜艳有营养", 2,4));
+		dishes.add(new Dish("木须肉", "色泽鲜艳有营养", 2,4));
+		dishes.add(new Dish("糖醋里脊", "酸甜可口，鲜嫩多汁", 1,3));
+		dishes.add(new Dish("麻辣香锅", "超辣超好吃", 0,5));
+		rl_dish1 = (RelativeLayout)findViewById(R.id.act_dish_recommendation_card1);
+		rl_dish2 = (RelativeLayout)findViewById(R.id.act_dish_recommendation_card2);
+		rl_dish3 = (RelativeLayout)findViewById(R.id.act_dish_recommendation_card3);
+		tv_name1 = (TextView)findViewById(R.id.act_dish_recommendation_card1_name);
+		tv_name2 = (TextView)findViewById(R.id.act_dish_recommendation_card2_name);
+		tv_name3 = (TextView)findViewById(R.id.act_dish_recommendation_card3_name);
+		iv_avatar1 = (ImageView)findViewById(R.id.act_dish_recommendation_card1_image);
+		iv_avatar2 = (ImageView)findViewById(R.id.act_dish_recommendation_card2_image);
+		iv_avatar3 = (ImageView)findViewById(R.id.act_dish_recommendation_card3_image);
 		iv_like1 = (ImageView)findViewById(R.id.act_dish_recommendation_card1_like);
 		iv_like2 = (ImageView)findViewById(R.id.act_dish_recommendation_card2_like);
 		iv_like3 = (ImageView)findViewById(R.id.act_dish_recommendation_card3_like);
@@ -75,5 +107,116 @@ public class DishRecommendationActivity extends AngelActivity {
 				iv_like3.setImageResource(like3 ? R.drawable.icon_like : R.drawable.icon_not_like);
 			}
 		});
+		rl_dish1.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Intent intent = new Intent(DishRecommendationActivity.this,DishDetailActivity.class);
+				intent.putExtra("dish",dishes.get(offset));
+				startActivity(intent);
+			}
+		});
+		rl_dish2.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Intent intent = new Intent(DishRecommendationActivity.this,DishDetailActivity.class);
+				intent.putExtra("dish",dishes.get(offset + 1));
+				startActivity(intent);
+			}
+		});
+		rl_dish3.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				Intent intent = new Intent(DishRecommendationActivity.this,DishDetailActivity.class);
+				intent.putExtra("dish",dishes.get(offset + 2));
+				startActivity(intent);
+			}
+		});
+
+	}
+
+	private void fillData(int index,Dish dish){
+		switch (index){
+			case 0:
+				iv_avatar1.setImageResource(dish.pic_resource);
+				tv_name1.setText(dish.getName());
+				iv_like1.setImageResource(R.drawable.icon_not_like);
+				like1 = false;
+				break;
+			case 1:
+				iv_avatar2.setImageResource(dish.pic_resource);
+				tv_name2.setText(dish.getName());
+				iv_like2.setImageResource(R.drawable.icon_not_like);
+				like2 = false;
+				break;
+			case 2:
+				iv_avatar3.setImageResource(dish.pic_resource);
+				tv_name3.setText(dish.getName());
+				iv_like3.setImageResource(R.drawable.icon_not_like);
+				like3 = false;
+				break;
+		}
+	}
+
+	private void flip(final int index){
+		switch (index){
+			case 0:
+				ObjectAnimator anim1 = ObjectAnimator.ofFloat(rl_dish1,"rotationY",0,90);
+				final ObjectAnimator anim2 = ObjectAnimator.ofFloat(rl_dish1,"rotationY",-90,0);
+				anim1.setDuration(300);
+				anim2.setDuration(300);
+				anim1.addListener(new AnimatorListenerAdapter() {
+					@Override
+					public void onAnimationEnd(Animator animation) {
+						super.onAnimationEnd(animation);
+						fillData(index, dishes.get(offset + index));
+
+						anim2.start();
+					}
+				});
+				anim1.start();
+				new Handler().postDelayed(new Runnable() {
+					@Override
+					public void run() {
+						flip(1);
+					}
+				},150);
+				break;
+			case 1:
+				ObjectAnimator anim3 = ObjectAnimator.ofFloat(rl_dish2,"rotationY",0,90);
+				final ObjectAnimator anim4 = ObjectAnimator.ofFloat(rl_dish2,"rotationY",-90,0);
+				anim3.setDuration(300);
+				anim4.setDuration(300);
+				anim3.addListener(new AnimatorListenerAdapter() {
+					@Override
+					public void onAnimationEnd(Animator animation) {
+						super.onAnimationEnd(animation);
+						fillData(index, dishes.get(offset + index));
+						anim4.start();
+					}
+				});
+				anim3.start();
+				new Handler().postDelayed(new Runnable() {
+					@Override
+					public void run() {
+						flip(2);
+					}
+				}, 150);
+				break;
+			case 2:
+				ObjectAnimator anim5 = ObjectAnimator.ofFloat(rl_dish3,"rotationY",0,90);
+				final ObjectAnimator anim6 = ObjectAnimator.ofFloat(rl_dish3,"rotationY",-90,0);
+				anim5.setDuration(300);
+				anim6.setDuration(300);
+				anim5.addListener(new AnimatorListenerAdapter() {
+					@Override
+					public void onAnimationEnd(Animator animation) {
+						super.onAnimationEnd(animation);
+						fillData(index, dishes.get(offset + index));
+						anim6.start();
+					}
+				});
+				anim5.start();
+				break;
+		}
 	}
 }
