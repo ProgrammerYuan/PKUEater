@@ -7,20 +7,19 @@ import android.app.ActionBar;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Looper;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 import com.ProgrammerYuan.PKUEater.R;
 import com.ProgrammerYuan.PKUEater.model.Canteen;
 import com.ProgrammerYuan.PKUEater.utils.EaterDB;
 import com.ProgrammerYuan.PKUEater.utils.Net;
+import com.ProgrammerYuan.PKUEater.views.GifWithTextView;
 import com.lidroid.xutils.HttpUtils;
 import com.lidroid.xutils.exception.HttpException;
-import com.lidroid.xutils.http.callback.RequestCallBack;
 import com.lidroid.xutils.http.client.HttpRequest;
-import org.apache.http.client.HttpClient;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -33,7 +32,6 @@ import studio.archangel.toolkitv2.util.text.Notifier;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 
 /**
@@ -43,10 +41,13 @@ public class CanteenRecommendationActivity extends AngelActivity {
 
 	AngelActionBar aab;
 	TextView selectBtn,anotherBtn;
-	LinearLayout ll_wrapper,ll_card;
+	LinearLayout ll_wrapper;
+	RelativeLayout rl_card;
 	TextView tv_name,tv_dishes;
 	ImageView iv_avatar;
+	GifWithTextView gtv;
 	ArrayList<Canteen> canteens;
+	boolean failed = false;
 	int index = 0;
 	public void setupActionBar(String title) {
 		ActionBar bar = getActionBar();
@@ -117,8 +118,8 @@ public class CanteenRecommendationActivity extends AngelActivity {
 				anim.start();
 			}
 		});
-		ll_card = (LinearLayout)findViewById(R.id.act_canteen_recommendation_card);
-		ll_card.setOnClickListener(new View.OnClickListener() {
+		rl_card = (RelativeLayout)findViewById(R.id.act_canteen_recommendation_card);
+		rl_card.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
 				Intent intent = new Intent(CanteenRecommendationActivity.this, CanteenDetailActivity.class);
@@ -129,13 +130,32 @@ public class CanteenRecommendationActivity extends AngelActivity {
 		tv_name = (TextView)findViewById(R.id.act_canteen_recommendation_card_name);
 		tv_dishes = (TextView)findViewById(R.id.act_canteen_recommendation_card_dishes);
 		iv_avatar = (ImageView)findViewById(R.id.act_canteen_recommendation_card_image);
-
+		gtv = (GifWithTextView)findViewById(R.id.act_canteen_recommendation_gtv);
+		gtv.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				if (failed){
+					failed = true;
+					getCanteenRecommendation(true);
+				}
+			}
+		});
 		canteens = EaterDB.getCanteens();
-		if(canteens.size() > 0) fillData(0);
-		getCanteenRecommendation();
+		boolean silence;
+		if(canteens.size() > 0){
+			fillData(0);
+			silence = true;
+			gtv.setVisibility(View.INVISIBLE);
+			ll_wrapper.setVisibility(View.VISIBLE);
+		} else {
+			silence = true;
+			gtv.setVisibility(View.VISIBLE);
+			ll_wrapper.setVisibility(View.INVISIBLE);
+		}
+		getCanteenRecommendation(silence);
 	}
 
-	private void getCanteenRecommendation(){
+	private void getCanteenRecommendation(final boolean silence){
 		final HttpUtils http = Net.getClient(this);
 		final LinkedHashMap<String,String> para = new LinkedHashMap<>();
 		Logger.out(Net.url_get_canteen_recommendation);
@@ -143,13 +163,39 @@ public class CanteenRecommendationActivity extends AngelActivity {
 
 			@Override
 			public void onStart(){
-				dialog = new LoadingDialog(CanteenRecommendationActivity.this,R.color.main_2);
+				if(gtv.getVisibility() != View.INVISIBLE){
+					gtv.setData(R.drawable.loading, "吃货祈祷中");
+				}
+				if(!silence) dialog = new LoadingDialog(CanteenRecommendationActivity.this,R.color.main_2);
 			}
 
 			@Override
 			public void onSuccess(final int status, final String json, JSONObject request_param) {
 				Logger.out("JSON:" + json);
-				if(dialog == null) return;
+				if(dialog == null){
+					if(status == 0) {
+						try {
+							JSONArray ja = new JSONArray(json);
+							if(ja.length() <= 0){
+								Notifier.showNormalMsg(CanteenRecommendationActivity.this,"目前没有推荐餐厅");
+								return;
+							}
+							canteens.clear();
+							for(int i = 0;i<ja.length();i++){
+								JSONObject jo = ja.getJSONObject(i);
+								Canteen canteen = new Canteen(jo);
+								canteens.add(canteen);
+								EaterDB.saveEntry(canteen);
+							}
+							fillData(0);
+						} catch (JSONException e) {
+							e.printStackTrace();
+						}
+					} else {
+
+					}
+					return;
+				}
 				Logger.out(json);
 				dialog.setOnDismissListener(new DialogInterface.OnDismissListener() {
 					@Override
@@ -182,7 +228,11 @@ public class CanteenRecommendationActivity extends AngelActivity {
 
 			@Override
 			public void onFailure(HttpException error, String msg, JSONObject request_param){
-				dialog.dismiss();
+				if(dialog != null) dialog.dismiss();
+				if(gtv.getVisibility()!= View.INVISIBLE){
+					failed = true;
+					gtv.setText("网络不好？\n点我重新加载～");
+				}
 				Logger.out(error.getExceptionCode() + "/" + msg);
 			}
 		});
@@ -193,7 +243,12 @@ public class CanteenRecommendationActivity extends AngelActivity {
 			Canteen c = canteens.get(index);
 			tv_name.setText(c.getName());
 			tv_dishes.setText(c.getDishesTitle());
-			ImageProvider.display(iv_avatar,c.getImageUrl());
+			ImageProvider.display(iv_avatar, c.getImageUrl());
+			if(gtv.getVisibility()!= View.INVISIBLE) {
+				gtv.recycle();
+				gtv.setVisibility(View.GONE);
+				ll_wrapper.setVisibility(View.VISIBLE);
+			}
 		}  catch (IndexOutOfBoundsException e){
 //			Notifier.showNormalMsg();
 			e.printStackTrace();

@@ -15,6 +15,7 @@ import android.widget.TextView;
 import com.ProgrammerYuan.PKUEater.R;
 import com.ProgrammerYuan.PKUEater.model.Dish;
 import studio.archangel.toolkitv2.AngelActivity;
+import studio.archangel.toolkitv2.dialogs.LoadingDialog;
 import studio.archangel.toolkitv2.widgets.AngelActionBar;
 
 import java.util.ArrayList;
@@ -66,7 +67,7 @@ public class DishRecommendationActivity extends AngelActivity {
 				flip(0);
 			}
 		});
-
+		dialog = new LoadingDialog(this,R.color.main_2);
 		dishes = new ArrayList<>();
 		dishes.add(new Dish("麻辣香锅", "超辣超好吃", 0,5));
 		dishes.add(new Dish("糖醋里脊", "酸甜可口，鲜嫩多汁", 1,3));

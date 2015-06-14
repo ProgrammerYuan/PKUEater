@@ -18,6 +18,8 @@ public class Dish extends DBEntry implements Serializable {
 	private float rating;
 	public int pic_index,pic_resource;
 
+	public Dish(){}
+
 	public Dish(int canteen_id,JSONObject jo){
 		this(jo);
 		this.canteen_id = canteen_id;
@@ -90,10 +92,10 @@ public class Dish extends DBEntry implements Serializable {
 	public String getCreatingTableSql() {
 		return "create table if not exists `dishes`(" +
 				"`id` int primary key," +
-				"`canteen_id` int" +
+				"`canteen_id` int," +
 				"`name` varchar(255)," +
 				"`image` varchar(255)," +
-				"`intro`varchar(255)" +
+				"`intro`varchar(255)," +
 				"`price` double" +
 				");";
 	}

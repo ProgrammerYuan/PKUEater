@@ -42,7 +42,7 @@ public class Canteen extends DBEntry implements Serializable {
 				"`id` int primary key," +
 				"`name` varchar(255)," +
 				"`image` varchar(255)," +
-				"`content`varchar(255)" +
+				"`content`varchar(255)," +
 				"`comment_count` int default 0," +
 				"`rate` float" +
 				");";
