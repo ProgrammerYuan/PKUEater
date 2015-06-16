@@ -82,6 +82,29 @@ public class EaterDB {
         getDb().execSQL(e.getDeletingSql());
     }
 
+    public static Dish searchDish(int dish_id){
+        Cursor cursor = query("`dishes`", null, "id = " + dish_id, null, null, "0,1");
+        int row = cursor.getCount();
+        if(row > 0){
+            cursor.moveToFirst();
+            return new Dish(cursor);
+        }
+        return null;
+    }
+
+    public static boolean saveDish(Dish dish){
+        Dish temp = searchDish(dish.getId());
+        if(temp == null) {
+            saveEntry(dish);
+            return false;
+        } else {
+            dish.isLiked = temp.isLiked;
+            dish.like_count = temp.like_count;
+            saveEntry(dish);
+            return true;
+        }
+    }
+
     public static ArrayList<Canteen> getCanteens(){
         ArrayList<Canteen> canteens = new ArrayList<>();
         Cursor cursor = query("canteens",null,null,null,null,null);
@@ -100,7 +123,7 @@ public class EaterDB {
 
     public static ArrayList<Dish> getMyFavoriteDishes(){
         ArrayList<Dish> dishes = new ArrayList<>();
-        Cursor cursor = query("`dishes`",null,"liked = 1",null,null,null);
+        Cursor cursor = query("`dishes`", null, "liked = 1", null, null, null);
         int row = cursor.getCount();
         if(row > 0){
             cursor.moveToFirst();
@@ -115,6 +138,7 @@ public class EaterDB {
 
     public static void likeDish(Dish dish,boolean like){
         int like_int = like ? 1:0;
+        dish.isLiked = like;
         String sql = "UPDATE `dishes` set liked = " + like_int + " where id = " + dish.getId();
         getDb().execSQL(sql);
         return;

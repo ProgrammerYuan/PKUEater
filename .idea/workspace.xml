@@ -21,28 +21,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.ProgrammerYuan.PKUEater" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/PKUEater_V1.1.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/libs/armeabi/libgif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/libs/armeabi-v7a/libgif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/libs/mips/libgif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/libs/x86/libgif.so" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/loading.jpg" />
+    <list default="true" id="dfc6236b-7990-43cc-abe7-fb93cfa182bd" name="Default" comment="Http Link and Database Built2">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/B2Fragment.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CommentCanteenActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" afterPath="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/PKUEater.iml" afterPath="$PROJECT_DIR$/PKUEater/PKUEater.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_canteen_detail_header.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_comment_canteen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml" afterPath="$PROJECT_DIR$/PKUEater/res/layout/item_dish.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/layer_ratingbar.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_menu2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_menu2.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_msg2.xml" afterPath="$PROJECT_DIR$/PKUEater/res/drawable/selector_tab_icon_msg2.xml" />
@@ -76,17 +60,17 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+              <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EaterDB.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="EaterDB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.12895928">
+              <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2286#2287#0" expanded="true" />
@@ -128,14 +112,14 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="108" column="40" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
               <folding>
-                <element signature="e#1866#1867#0" expanded="true" />
-                <element signature="e#1885#1886#0" expanded="true" />
-                <element signature="e#1965#1966#0" expanded="true" />
-                <element signature="e#1988#1989#0" expanded="true" />
-                <element signature="e#2034#2035#0" expanded="true" />
-                <element signature="e#2087#2088#0" expanded="true" />
+                <element signature="e#1865#1866#0" expanded="true" />
+                <element signature="e#1884#1885#0" expanded="true" />
+                <element signature="e#1964#1965#0" expanded="true" />
+                <element signature="e#1987#1988#0" expanded="true" />
+                <element signature="e#2033#2034#0" expanded="true" />
+                <element signature="e#2086#2087#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,7 +129,7 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="184" column="5" selection-start-line="184" selection-start-column="5" selection-end-line="184" selection-end-column="5" />
+              <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
               <folding>
                 <element signature="e#4646#4897#0" expanded="true" />
                 <element signature="e#4896#4897#0" expanded="true" />
@@ -153,6 +137,12 @@
                 <element signature="e#5184#5185#0" expanded="true" />
                 <element signature="e#5218#5473#0" expanded="true" />
                 <element signature="e#5472#5473#0" expanded="true" />
+                <element signature="e#7383#7467#0" expanded="true" />
+                <element signature="e#7466#7467#0" expanded="true" />
+                <element signature="e#7737#7979#0" expanded="true" />
+                <element signature="e#7978#7979#0" expanded="true" />
+                <element signature="e#8386#8628#0" expanded="true" />
+                <element signature="e#8627#8628#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -162,17 +152,17 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+              <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Launcher.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/IconDownloader/src/Launcher.java">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PKUEater/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20361991">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -195,20 +185,20 @@
         <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+              <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
               <folding>
                 <element signature="e#666#667#0" expanded="true" />
                 <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#2357#2358#0" expanded="true" />
-                <element signature="e#2373#2374#0" expanded="true" />
-                <element signature="e#2400#2401#0" expanded="true" />
-                <element signature="e#2418#2419#0" expanded="true" />
-                <element signature="e#2449#2450#0" expanded="true" />
-                <element signature="e#2472#2473#0" expanded="true" />
-                <element signature="e#2502#2503#0" expanded="true" />
-                <element signature="e#2523#2524#0" expanded="true" />
-                <element signature="e#2549#2550#0" expanded="true" />
-                <element signature="e#2574#2575#0" expanded="true" />
+                <element signature="e#2356#2357#0" expanded="true" />
+                <element signature="e#2372#2373#0" expanded="true" />
+                <element signature="e#2399#2400#0" expanded="true" />
+                <element signature="e#2417#2418#0" expanded="true" />
+                <element signature="e#2448#2449#0" expanded="true" />
+                <element signature="e#2471#2472#0" expanded="true" />
+                <element signature="e#2501#2502#0" expanded="true" />
+                <element signature="e#2522#2523#0" expanded="true" />
+                <element signature="e#2548#2549#0" expanded="true" />
+                <element signature="e#2573#2574#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -292,11 +282,11 @@
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/adapters/DishAdapter.java" />
         <option value="$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
+        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java" />
         <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java" />
-        <option value="$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java" />
       </list>
     </option>
   </component>
@@ -356,6 +346,112 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adapters" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PKUEater" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -370,7 +466,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_21_x86" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="DEBUGGABLE_DEVICE" value="Nexus_5_API_21_x86 [emulator-5554]" />
@@ -655,7 +751,13 @@
       <option name="project" value="LOCAL" />
       <updated>1434271247045</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Http Link and Database Built2">
+      <created>1434455601312</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1434455601312</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -669,7 +771,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -690,7 +792,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20457797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20457797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -833,14 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="60" column="31" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="75" selection-start-line="19" selection-start-column="75" selection-end-line="19" selection-end-column="75" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1093,17 +1187,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/HomeFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding>
-            <element signature="e#1338#1539#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PKUEater/res/layout/act_dish_recommendation.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -1115,43 +1198,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java">
+    <entry file="file://$PROJECT_DIR$/IconDownloader/src/Launcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
-          <folding>
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#2357#2358#0" expanded="true" />
-            <element signature="e#2373#2374#0" expanded="true" />
-            <element signature="e#2400#2401#0" expanded="true" />
-            <element signature="e#2418#2419#0" expanded="true" />
-            <element signature="e#2449#2450#0" expanded="true" />
-            <element signature="e#2472#2473#0" expanded="true" />
-            <element signature="e#2502#2503#0" expanded="true" />
-            <element signature="e#2523#2524#0" expanded="true" />
-            <element signature="e#2549#2550#0" expanded="true" />
-            <element signature="e#2574#2575#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.09174312">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java">
+    <entry file="file://$PROJECT_DIR$/PKUEater/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="120" column="5" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/HomeFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2286#2287#0" expanded="true" />
-            <element signature="e#2337#2338#0" expanded="true" />
+            <element signature="e#1338#1539#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="108" column="40" selection-start-line="108" selection-start-column="40" selection-end-line="108" selection-end-column="40" />
+          <folding>
+            <element signature="e#1865#1866#0" expanded="true" />
+            <element signature="e#1884#1885#0" expanded="true" />
+            <element signature="e#1964#1965#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2033#2034#0" expanded="true" />
+            <element signature="e#2086#2087#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1169,25 +1261,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Dish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#1866#1867#0" expanded="true" />
-            <element signature="e#1885#1886#0" expanded="true" />
-            <element signature="e#1965#1966#0" expanded="true" />
-            <element signature="e#1988#1989#0" expanded="true" />
-            <element signature="e#2034#2035#0" expanded="true" />
-            <element signature="e#2087#2088#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/DishRecommendationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="184" column="5" selection-start-line="184" selection-start-column="5" selection-end-line="184" selection-end-column="5" />
+          <caret line="111" column="30" selection-start-line="111" selection-start-column="30" selection-end-line="111" selection-end-column="30" />
           <folding>
             <element signature="e#4646#4897#0" expanded="true" />
             <element signature="e#4896#4897#0" expanded="true" />
@@ -1195,23 +1272,54 @@
             <element signature="e#5184#5185#0" expanded="true" />
             <element signature="e#5218#5473#0" expanded="true" />
             <element signature="e#5472#5473#0" expanded="true" />
+            <element signature="e#7383#7467#0" expanded="true" />
+            <element signature="e#7466#7467#0" expanded="true" />
+            <element signature="e#7737#7979#0" expanded="true" />
+            <element signature="e#7978#7979#0" expanded="true" />
+            <element signature="e#8386#8628#0" expanded="true" />
+            <element signature="e#8627#8628#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/Fragments/MyCollectionFragment.java">
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/activities/CanteenRecommendationActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
+          <caret line="188" column="37" selection-start-line="188" selection-start-column="37" selection-end-line="188" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/IconDownloader/src/Launcher.java">
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/model/Canteen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20361991">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="53" selection-start-line="76" selection-start-column="53" selection-end-line="76" selection-end-column="53" />
+          <folding>
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2372#2373#0" expanded="true" />
+            <element signature="e#2399#2400#0" expanded="true" />
+            <element signature="e#2417#2418#0" expanded="true" />
+            <element signature="e#2448#2449#0" expanded="true" />
+            <element signature="e#2471#2472#0" expanded="true" />
+            <element signature="e#2501#2502#0" expanded="true" />
+            <element signature="e#2522#2523#0" expanded="true" />
+            <element signature="e#2548#2549#0" expanded="true" />
+            <element signature="e#2573#2574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PKUEater/src/com/ProgrammerYuan/PKUEater/utils/EaterDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12895928">
+          <caret line="79" column="0" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2286#2287#0" expanded="true" />
+            <element signature="e#2337#2338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

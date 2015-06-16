@@ -13,7 +13,7 @@ import java.io.Serializable;
  */
 public class Dish extends DBEntry implements Serializable{
 
-	private int id,canteen_id,like_count;
+	public int id,canteen_id,like_count;
 	private String name,intro,image_url;
 	public boolean isSystem,isLiked;
 	private double price;
@@ -110,7 +110,7 @@ public class Dish extends DBEntry implements Serializable{
 				"`image` varchar(255)," +
 				"`intro` varchar(255)," +
 				"`liked` tinyint," +
-				"`like_count` int" +
+				"`like_count` int," +
 				"`price` double" +
 				");";
 	}

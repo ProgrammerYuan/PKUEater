@@ -63,7 +63,7 @@ public class Canteen extends DBEntry implements Serializable {
 				try {
 					Dish dish = new Dish(id,ja.getJSONObject(i));
 					dishes.add(dish);
-					EaterDB.saveEntry(dish);
+					EaterDB.saveDish(dish);
 				} catch (JSONException e) {
 					e.printStackTrace();
 				}

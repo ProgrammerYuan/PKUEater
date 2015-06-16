@@ -146,11 +146,13 @@ public class DishRecommendationActivity extends AngelActivity {
 		});
 		dishes = new ArrayList<>();
 		dishes.addAll(EaterDB.getDishesOfCanteen(canteen_id, 0, 6));
-		if(dishes.size() > 0){
+		if(dishes.size() > 0 && dishes.size() < 6){
 			Dish dish = dishes.get(0);
 			dishes.clear();
 			for(int i = 0;i<6;i++)
 				dishes.add(dish);
+		} if(dishes.size() > 6) {
+
 		} else {
 			getDishes();
 		}
@@ -172,14 +174,14 @@ public class DishRecommendationActivity extends AngelActivity {
 				ImageProvider.display(iv_avatar2,dish.getImageUrl());
 				tv_name2.setText(dish.getName());
 				iv_like2.setImageResource(dish.isLiked ? R.drawable.icon_like : R.drawable.icon_not_like);
-				like1 = dish.isLiked;
+				like2 = dish.isLiked;
 				break;
 			case 2:
 //				iv_avatar3.setImageResource(dish.pic_resource);
 				ImageProvider.display(iv_avatar3,dish.getImageUrl());
 				tv_name3.setText(dish.getName());
 				iv_like3.setImageResource(dish.isLiked ? R.drawable.icon_like : R.drawable.icon_not_like);
-				like1 = dish.isLiked;
+				like3 = dish.isLiked;
 				break;
 		}
 	}
@@ -195,7 +197,7 @@ public class DishRecommendationActivity extends AngelActivity {
 					@Override
 					public void onAnimationEnd(Animator animation) {
 						super.onAnimationEnd(animation);
-						fillData(index, dishes.get(offset + index));
+						fillData(index, dishes.get((offset + index) % dishes.size()));
 
 						anim2.start();
 					}
@@ -217,7 +219,7 @@ public class DishRecommendationActivity extends AngelActivity {
 					@Override
 					public void onAnimationEnd(Animator animation) {
 						super.onAnimationEnd(animation);
-						fillData(index, dishes.get(offset + index));
+						fillData(index, dishes.get((offset + index) % dishes.size()));
 						anim4.start();
 					}
 				});
@@ -238,7 +240,7 @@ public class DishRecommendationActivity extends AngelActivity {
 					@Override
 					public void onAnimationEnd(Animator animation) {
 						super.onAnimationEnd(animation);
-						fillData(index, dishes.get(offset + index));
+						fillData(index, dishes.get((offset + index) % dishes.size()));
 						anim6.start();
 					}
 				});
